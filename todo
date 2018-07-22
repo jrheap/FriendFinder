@@ -8,6 +8,7 @@ get both HTML pages working
     X
 
 create a variable that will store/create the new user object
+    X
 
 create a function that will LOOP through all USERs and compare scores 
 
